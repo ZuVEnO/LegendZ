@@ -1,0 +1,9 @@
+name: LegendZ
+main: me.zuveno.legendz
+version: 1.0
+depend: [Vault, PlaceholderAPI, MyCommand, AntiVPN]
+commands:
+  menu:
+  statistic:
+    aliases: [stats, stat, status]
+    lang:

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="LegendZ:jar">
+    <output-path>$PROJECT_DIR$/../../LegendZ/plugins</output-path>
+    <root id="archive" name="LegendZ.jar">
+      <element id="module-output" name="LegendZ" />
+    </root>
+  </artifact>
+</component>

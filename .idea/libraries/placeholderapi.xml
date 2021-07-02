@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="placeholderapi">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../deci-hellz/plugins/placeholderapi.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
